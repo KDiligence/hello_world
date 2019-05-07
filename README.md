@@ -1,4 +1,4 @@
 # hello_world
-Intro to GitHub
-This is me.
-I'm me and i want to remain me. THank you.
+Introduction to GitHub
+Hi all, this this is me, Nat.
+I'm me and i would like to remain me. Thanks!
